@@ -14,7 +14,7 @@ No, I haven't died yet. I'm active and dreaming a lot, and dedicating myself to 
 
 🚧 I’m currently working with MongoDB as a database, Rabbitmq as a message broker, MassTransit for distributed messaging, authentication and authorization with IdentityServer4, EnvoyProxy as Api Gateway and single page frontend with Angular, and a few more things.
 
-🤝 I am looking for a new job as a backend developer in the dotnet stack, preferably with microservices architecture, and exclusively remote work.
+🎯 I am looking for a new job as a backend developer in the dotnet stack, preferably with microservices architecture, and exclusively remote work. 🤝
 
 🌱 In my free time I study, watch series and work on developing a personal project, called toolbox.
 
