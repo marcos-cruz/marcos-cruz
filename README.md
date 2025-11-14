@@ -18,7 +18,7 @@ No, I haven't died yet. I'm active and dreaming a lot, and dedicating myself to 
 
 🌱 In my free time I study, watch series and work on developing a personal project, called toolbox.
 
-📫 How to reach me through my [Linkedin](https://br.linkedin.com/in/cruzmarcos) or [email](marcoscruz@terra.com.br).
+📫 How to reach me through my [Linkedin](https://br.linkedin.com/in/cruzmarcos) or [email](socramzurc@gmail.com).
 
 <!---
 marcos-cruz/marcos-cruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
